@@ -23,7 +23,6 @@ DEPEND="${RDEPEND}
 	virtual/pkgconfig"
 
 PATCHES=(
-	"${FILESDIR}/${P}-fix-udev-rules.patch"
 )
 
 src_prepare() {

@@ -1,0 +1,12 @@
+<repositories version="1.0">
+    <repo quality="experimental" status="unofficial">
+        <name>godai-overlay</name>
+        <description>Godai's Overlay</description>
+        <homepage>http://github.com/godai0519/godai-overlay</homepage>
+        <owner>
+            <name>Godai Azuma</name>
+        </owner>
+        <source type="git">https://github.con/godai0519/godai-overlay.git</source>
+    </repo>
+</repositories>
+
